@@ -93,3 +93,8 @@ Resultados obtenidos:
 El proyecto combina análisis de datos, lógica de negocio y visualización para transformar un dataset de gran volumen en información útil para la toma de decisiones.
 
 El dashboard final permite identificar patrones, comparar indicadores y detectar oportunidades de optimización dentro de un catálogo de juegos de casino.
+
+## Acceso rápido
+
+- [Ver scripts SQL](sql/)
+- [Ver archivo Power BI](powerbi/)
