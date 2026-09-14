@@ -1,4 +1,5 @@
 # Casino Analytics
+![Dashboard Casino Analytics](dashboard_final.png_.png)
 
 Proyecto de análisis de catálogo de juegos de casino realizado con **SQL y Power BI**.
 
