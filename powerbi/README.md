@@ -8,4 +8,4 @@ El archivo `.pbix` completo del proyecto está disponible para consulta y descar
 
 Incluye el dashboard final de **Casino Analytics**, con KPIs, filtros, análisis de RTP, proveedores, volatilidad, funciones del catálogo y la lógica de priorización automática.
 
-[Descargar Casino Analytics en Power BI] (https://1drv.ms/u/c/ec4bb0e1d72a09de/IQDSTb9_3ogURKKuD7Ge9kEsAW10qOTlFO0sabnnzWbxqRE?e=X8siag)
+[⬇️ Descargar archivo Power BI (.pbix)](https://1drv.ms/u/c/ec4bb0e1d72a09de/IQDSTb9_3ogURKKuD7Ge9kEsAW10qOTlFO0sabnnzWbxqRE?e=X8siag)
